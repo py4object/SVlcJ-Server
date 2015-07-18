@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vlcj-player">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/vlcj-player.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

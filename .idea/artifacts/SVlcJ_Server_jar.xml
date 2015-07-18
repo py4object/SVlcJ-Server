@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SVlcJ-Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SVlcJ_Server_jar</output-path>
+    <root id="archive" name="SVlcJ-Server.jar">
+      <element id="module-output" name="SVlcJ-Server" />
+      <element id="library" level="project" name="netty-buffer-5.0.0.Alpha2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/vlcj-player.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-net-3.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

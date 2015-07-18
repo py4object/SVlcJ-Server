@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SVlcJ-Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/SVlcJ-Server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
