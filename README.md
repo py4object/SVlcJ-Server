@@ -24,4 +24,4 @@ then excute in a terminal/command line
 License
 -------
 
-The vlcj-player project is provided under the GPL, version 3 or later.
+The svlcj-server project is provided under the GPL, version 3 or later.
