@@ -3,8 +3,8 @@ Svlcj-server
 
 Svlcj-server is sever used to synchronize multi client of [Svlcj-player](https://github.com/py4object/SVlcJ) 
 
-The main goal of the project is to provide an platform independent media player that 
-that can be synchronized using Server/Client model  
+The main goal of the project is to provide a platform independent media player that 
+that can be synchronized using [Server](https://github.com/py4object/SVlcJ-Server)/[Client](https://github.com/py4object/SVlcJ) model  
 
 Status
 ------
