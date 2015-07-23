@@ -110,13 +110,9 @@ public class Server {
             }
         }
 
-        @Subscribe
-        public void OnPlaying(PlayingEvent e){
-            isPlaying=true;
-        }
     }
 
     public static void main(String []args){
-        new Server(8899);
+        new Server(Integer.valueOf(args[0]));
     }
 }
